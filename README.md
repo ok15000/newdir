@@ -5,3 +5,4 @@ test-a edit
 
 new-b edit
 
+clone
